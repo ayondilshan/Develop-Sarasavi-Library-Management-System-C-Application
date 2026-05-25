@@ -169,11 +169,7 @@ git clone https://github.com/your-username/sarasavi-library-system.git
 * Multi-user authentication
 * Cloud database integration
 
----
 
-## 📄 License
-
-This project is developed for educational purposes.
 
 
 
